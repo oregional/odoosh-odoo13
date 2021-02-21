@@ -1,0 +1,8 @@
+[submodule "oregional-odoo-app"]
+	path = oregional-odoo-app
+	url = git@bitbucket.org:oregional/oregional-odoo-app.git
+	branch = 13-test
+[submodule "oregional-odoo-3rdparty"]
+	path = oregional-odoo-3rdparty
+	url = git@bitbucket.org:oregional/oregional-odoo-3rdparty.git
+	branch = 13-test
