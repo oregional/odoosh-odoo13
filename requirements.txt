@@ -1,0 +1,11 @@
+atlassian-python-api
+email_validator
+phonenumbers
+pycryptodome
+pysftp
+python-digitalocean
+python-magic
+python-wordpress-xmlrpc
+qrcode
+woocommerce
+zeep
